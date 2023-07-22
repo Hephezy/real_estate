@@ -1,0 +1,7 @@
+{
+    "terminal.integrated.env.windows": {
+
+    },
+    "terminal.integrated.shellIntegration.suggestEnabled": false,
+    "terminal.integrated.shellIntegration.enabled": false
+}
